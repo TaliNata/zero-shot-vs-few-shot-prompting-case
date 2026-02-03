@@ -1,0 +1,19 @@
+You will be given a task and one example.
+Follow the same pattern in your answer.
+
+Example:
+
+Question:
+Why does the camel have adaptations for desert life?
+
+Answer:
+The camel evolved in arid environments where water and food were scarce.
+Traits such as fat-storing humps, efficient kidneys, and wide feet
+help it survive extreme heat and long periods without water.
+
+---
+
+Now answer the following question using the same structure and level of detail.
+
+Question:
+Why does the platypus have its unusual traits?
